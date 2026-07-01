@@ -33,3 +33,6 @@ export const ProductEPDSchema = z.object({
 });
 
 export type ProductEPD = z.infer<typeof ProductEPDSchema>;
+
+export const ProductEPDJsonSchema =
+    z.toJSONSchema(ProductEPDSchema);

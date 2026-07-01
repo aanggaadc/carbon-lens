@@ -1,0 +1,227 @@
+{
+  "id": "f2909f07-c4c3-40c5-8867-4dc6e852bd34",
+  "source": {
+    "fileName": "EPD_Hallett_Ready_Mix_Concrete_Products.pdf",
+    "documentTitle": "READY MIX CONCRETE PRODUCTS",
+    "version": "003"
+  },
+  "metadata": {
+    "programOperator": "The International EPD® System",
+    "declarationNumber": "EPD-IES-0009353:003",
+    "issueDate": "2026-05-04",
+    "validUntil": "2028-07-31"
+  },
+  "product": {
+    "name": "READY MIX CONCRETE PRODUCTS",
+    "manufacturer": "Hallett Group",
+    "description": "This EPD covers the environmental impacts of Ready Mix concrete products when used in infrastructure, commercial buildings, and residential buildings.",
+    "category": "Ready-mixed concrete",
+    "compressiveStrength": null,
+    "compressiveStrengthUnit": null,
+    "declaredUnit": "1 m³ of Ready Mix concrete",
+    "manufacturingLocation": "South Australia",
+    "standard": "ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 275,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "GWPt kg CO2-eq 275"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPf",
+      "impact": {
+        "value": 272,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "GWPf kg CO2-eq 272"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPb",
+      "impact": {
+        "value": 3,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "GWPb kg CO2-eq 3.00"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPluluc",
+      "impact": {
+        "value": 0.0175,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "GWPluluc kg CO2-eq 0.0175"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "ODP",
+      "impact": {
+        "value": 6.65e-8,
+        "unit": "kg CFC-11 eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "ODP kg CFC-11 eq 6.65E-08"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "AP",
+      "impact": {
+        "value": 0.779,
+        "unit": "Mole of H+eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "AP Mole of H+eq 0.779"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "EPfw",
+      "impact": {
+        "value": 0.000215,
+        "unit": "kg Peq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "EPfw kg Peq 2.15E-04"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "EPm",
+      "impact": {
+        "value": 0.258,
+        "unit": "kg N eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "EPm kg N eq 0.258"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "EPt",
+      "impact": {
+        "value": 2.85,
+        "unit": "Mole of N eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "EPt Mole of N eq 2.85"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "POCP",
+      "impact": {
+        "value": 0.69,
+        "unit": "kg NMVOC eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "POCP kg NMVOC eq 0.690"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "ADPmm",
+      "impact": {
+        "value": 0.00000444,
+        "unit": "kg Sb-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "ADPmm* kg Sb-eq 4.44E-06"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "ADPf",
+      "impact": {
+        "value": 1180,
+        "unit": "MJ",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "ADPf* MJ 1 180"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "WDP",
+      "impact": {
+        "value": 11.8,
+        "unit": "m³ world equiv",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "DRY CREEK | A1-A3",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "WDP* m³ world equiv 11.8"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T11:29:55.524Z",
+    "warnings": []
+  }
+}

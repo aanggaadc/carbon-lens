@@ -4,12 +4,17 @@
   "description": "> AI-powered extraction and comparison of Environmental Product Declarations (EPDs) for concrete products.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "extract": "tsx packages/extractor/src/index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google/genai": "^2.10.0",
+    "dotenv": "^17.4.2",
     "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
   }
 }

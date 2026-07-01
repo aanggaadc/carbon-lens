@@ -11,11 +11,11 @@ async function main() {
     recursive: true,
   });
 
+  const existingFiles = new Set(await readdir(outputDir));
+
   const files = await readdir(inputDir);
 
-  const pdfFiles = files.filter((file) =>
-    file.toLowerCase().endsWith(".pdf")
-  );
+  const pdfFiles = files.filter((file) => file.toLowerCase().endsWith(".pdf"));
 
   console.log(`Found ${pdfFiles.length} PDF(s).\n`);
 
@@ -27,21 +27,19 @@ async function main() {
 
     const outputFile = file.replace(/\.pdf$/i, ".json");
 
-    const outputPath = path.join(
-      outputDir,
-      outputFile
-    );
+    if (existingFiles.has(outputFile)) {
+      console.log(`⏭ Skipped ${file} (already extracted)\n`);
+      continue;
+    }
+
+    const outputPath = path.join(outputDir, outputFile);
 
     console.log(`Extracting ${file}...`);
 
     try {
       const result = await extractPdf(pdfPath);
 
-      await writeFile(
-        outputPath,
-        JSON.stringify(result, null, 2),
-        "utf8"
-      );
+      await writeFile(outputPath, JSON.stringify(result, null, 2), "utf8");
 
       success++;
 

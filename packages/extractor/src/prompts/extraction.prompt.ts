@@ -12,7 +12,7 @@ Rules:
 5. Never calculate or infer values.
 6. Never replace "Not Declared" with zero.
 7. Always preserve original measurement units.
-8. Every environmental value must include provenance.
+8. Every extracted environmental value must include provenance.
 
 Required provenance fields:
 - page
@@ -20,14 +20,27 @@ Required provenance fields:
 - table
 - rawText
 
-Separate lifecycle stage and environmental indicator.
+Extract ONLY the Global Warming Potential total (GWPt) indicator.
 
-Correct:
-stage = A1-A3
-indicator = GWPt
+For each lifecycle stage, extract exactly one environmental impact entry.
 
-Incorrect:
-stage = A1-A3 GWPt
+The indicator must always be "GWPt".
+
+Ignore all other environmental indicators, including:
+- GWPf
+- GWPb
+- GWPluluc
+- ODP
+- AP
+- EPfw
+- EPm
+- EPt
+- POCP
+- ADPf
+- ADPmm
+- WDP
+
+The application only requires embodied carbon (GWPt) values for comparison.
 
 The JSON output MUST strictly follow the provided response schema.
 

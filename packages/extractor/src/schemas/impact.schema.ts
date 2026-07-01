@@ -6,7 +6,7 @@ export const LifecycleStageSchema = z.object({
 
     stage:z.string(),
 
-    indicator:z.string(),
+    indicator: z.literal("GWPt"),
 
     impact:CarbonValueSchema
 

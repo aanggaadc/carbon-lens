@@ -41,49 +41,91 @@ Examples
 
 ---
 
-# Environmental Impact
+# Environmental Impact Schema
 
-Each lifecycle stage is represented independently.
+Environmental impact data is represented as an array of lifecycle stage entries.
 
+Each entry contains **exactly one lifecycle stage** and **one environmental indicator**.
+
+For this project, only the **Global Warming Potential total (GWPt)** indicator is extracted because the comparison application focuses on embodied carbon.
+
+Example:
+
+```json
+{
+  "stage": "A1-A3",
+  "indicator": "GWPt",
+  "impact": {
+    "value": 275,
+    "unit": "kg CO2 eq.",
+    "status": "DECLARED",
+    "provenance": {
+      "page": 11,
+      "section": "Environmental Performance",
+      "table": "Table 13",
+      "rawText": "1.27E+02"
+    }
+  }
+}
 ```
-A1
 
-A2
+## Why only GWPt?
 
-A3
+The assessment application compares products based on embodied carbon across lifecycle stages.
 
+Although an EPD may contain many environmental indicators (ODP, AP, EP, POCP, WDP, ADP, etc.), these values are not required by the comparison application.
+
+During batch extraction, extracting every environmental indicator significantly increased the response size and, for larger EPDs, could exceed the model's output limit.
+
+To improve reliability while remaining aligned with the assessment requirements, the extraction scope was intentionally reduced to **GWPt only**.
+
+## Lifecycle Stages
+
+Lifecycle stages are preserved exactly as published in the source EPD.
+
+Typical stages include:
+
+```text
+A1-A3
 A4
-
-...
-
+A5
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+C1
+C2
+C3
+C4
 D
 ```
 
-Stages are objects instead of primitive numbers.
+## Provenance
 
-Example
+Every extracted impact value includes provenance information:
 
-```
-A1
+* page
+* section
+* table
+* rawText
 
-value
+This allows every carbon value displayed in the application to be traced back to its original location inside the source EPD.
 
-unit
+## Status
 
-status
+Each impact entry preserves the declaration status reported by the EPD.
 
-provenance
-```
+Possible values include:
 
-This allows the application to distinguish
+* DECLARED
+* NOT_DECLARED
+* NOT_APPLICABLE
 
-- Declared
-- Not Declared
-- Not Applicable
+Keeping the original status avoids incorrectly interpreting missing values as zero and preserves the intent of the published declaration.
 
-instead of treating everything as zero.
-
----
 
 # Provenance
 

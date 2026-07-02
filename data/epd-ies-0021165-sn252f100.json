@@ -1,0 +1,152 @@
+{
+  "id": "a0d5bb0a-13e9-46e9-8c1e-e9fb33df9470",
+  "source": {
+    "fileName": "Adbri Concrete EPD-SN252F100 South Australia.pdf",
+    "documentTitle": "Adbri Concrete EPD-SN252F100 South Australia",
+    "version": "13-03-2025"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-0021165",
+    "issueDate": "13-03-2025",
+    "validUntil": "13-03-2030"
+  },
+  "product": {
+    "name": "Futurecrete Normal Class GL:Slag 25 MPa",
+    "manufacturer": "Adbri Concrete",
+    "description": "Normal class concrete, Futurecrete® and Futurecrete® Ultra lower carbon concrete, and special class concrete are manufactured to comply with AS 1379.",
+    "category": "Concrete",
+    "compressiveStrength": 25,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1m³",
+    "manufacturingLocation": "South Australia",
+    "standard": "AS 1379"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 143.83,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 32,
+          "section": "Environmental performance results",
+          "table": "Table 8 Potential environmental impacts of Product stage (A1-A3)",
+          "rawText": "143.83 kg CO2 eq."
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 9.64,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 34,
+          "section": "LCA results for Distribution stage (Module A4)",
+          "table": "Table 13 Potential environmental impacts of Distribution stage (A4)",
+          "rawText": "9.64 kg CO2 eq."
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "A5 X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "C1 X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "C2 X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "C3 X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "C4 X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Table 3| Life Cycle of building products: stages and modules included in this EPD",
+          "table": "Table 3",
+          "rawText": "D X (No specific GWPt value found in environmental impact tables.)"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T07:29:48.471Z",
+    "warnings": []
+  }
+}

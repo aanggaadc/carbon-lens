@@ -1,0 +1,152 @@
+{
+  "id": "5e77f18d-b863-4bc1-b5ee-8a97af36e1fe",
+  "source": {
+    "fileName": "Holcim_Ready-Mix_Concrete_EPD.pdf",
+    "documentTitle": "READY-MIX CONCRETE Environmental Product Declaration",
+    "version": "1"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-20602:001",
+    "issueDate": "15/04/2025",
+    "validUntil": "15/04/2030"
+  },
+  "product": {
+    "name": "READY-MIX CONCRETE",
+    "manufacturer": "Holcim (Australia) Pty Ltd",
+    "description": "VIC - Melbourne Metro - ECOPact- VE322EAMF. S32@56D 20mm 120SL ECOPactMAX FIB CONC. Ready-mix concrete prepared by mixing cement, coarse and fine aggregates, and water, with or without the addition of auxiliary agents and additives.",
+    "category": "Articles of concrete, cement and plaster",
+    "compressiveStrength": 32,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 m³ of ready-mix concrete",
+    "manufacturingLocation": "Laverton, Truganina, Footscray, Epping, Keilor, Preston, Oaklands Junction, Melbourne Airport, Bayswater, Springvale, Lyndhurst, Seaford, Pakenham, Hastings, Rosebud",
+    "standard": "ISO 14025 and EN15804+A2"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 105,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 105"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.05,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 2.05"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 8.81,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 8.81"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0.532,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 0.532"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 3.99,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 3.99"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.61,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 7.61"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 1.28,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. 1.28"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -15.7,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 15,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS (in accordance with EN 15804:2012+A2:2019) – 1m³ of ready-mix concrete",
+          "rawText": "GWP-Total kg CO2 eq. -15.7"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T07:31:34.240Z",
+    "warnings": []
+  }
+}

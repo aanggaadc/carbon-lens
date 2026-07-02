@@ -1,0 +1,122 @@
+{
+  "id": "63f35baa-c859-468f-923a-ebbd583635ee",
+  "source": {
+    "fileName": "AURORA_AR2520_EPD.pdf",
+    "documentTitle": "Environmental Product Declaration",
+    "version": "1"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-0021754:001",
+    "issueDate": "2025-08-15",
+    "validUntil": "2030-08-15"
+  },
+  "product": {
+    "name": "AR2520 pre-mixed concrete",
+    "manufacturer": "Aurora Construction Materials Epping Pty Ltd",
+    "description": "AR2520 concrete manufactured by Aurora in Rockbank, Melbourne, Victoria.",
+    "category": "General use concrete",
+    "compressiveStrength": 25,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "m³",
+    "manufacturingLocation": "Rockbank",
+    "standard": "AS 1379:2007"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 140,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "1.40E+02"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "1.20E+01"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 14.5,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "1.45E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 8.03,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "8.03E+00"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0.861,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "8.61E-01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -9.79,
+        "unit": "kg CO2-eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 18,
+          "section": "Environmental performance",
+          "table": "Table 10: Environmental indicators EN 15804+A2, AR2520, per m³",
+          "rawText": "-9.79E+00"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T07:30:25.224Z",
+    "warnings": []
+  }
+}

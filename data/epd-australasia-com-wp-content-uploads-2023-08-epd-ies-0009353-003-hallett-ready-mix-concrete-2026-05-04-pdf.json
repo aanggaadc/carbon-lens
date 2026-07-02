@@ -1,0 +1,122 @@
+{
+  "id": "7c80da51-5b2a-423e-9f84-662557b62da8",
+  "source": {
+    "fileName": "Hallett Group Ready Mix Concrete Products EPD.pdf",
+    "documentTitle": "ENVIRONMENTAL PRODUCT DECLARATION READY MIX CONCRETE PRODUCTS",
+    "version": "003"
+  },
+  "metadata": {
+    "programOperator": "The International EPD® System, EPD International AB, EPD Australasia",
+    "declarationNumber": "EPD-IES-0009353:003",
+    "issueDate": "2026-05-04",
+    "validUntil": "2028-07-31"
+  },
+  "product": {
+    "name": "READY MIX CONCRETE PRODUCTS",
+    "manufacturer": "Hallett Group",
+    "description": "This EPD covers the environmental impacts of Ready Mix concrete products when used in infrastructure, commercial buildings, and residential buildings. The products are manufactured at five batching plants around South Australia. We supply a wide range of premixed concrete for a variety of applications. We provide 20 and 25 MPa concrete for use primarily in residential slabs, footings, driveways and paths and 32 and 40 MPa or higher strength concrete which is primarily used for industrial jobs where a greater resistance to loading and trafficking is required. At Hallett we strive to provide customers a range of different concrete mixes that can meet their technical and environmental needs. Hallett Group's Enviro Construct range offers low carbon mix designs to cater for many varied concrete applications.",
+    "category": "Ready Mix Concrete Products",
+    "compressiveStrength": null,
+    "compressiveStrengthUnit": null,
+    "declaredUnit": "1 m³ of Ready Mix concrete",
+    "manufacturingLocation": "Dry Creek, Elizabeth, Mile End, McLaren Vale, Osborne",
+    "standard": "ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 198,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 11,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 13. Module A1-A3 Core environmental impact indicator results for 1 m³ of product produced at Dry Creek batch plant",
+          "rawText": "198"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 14.8,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 35,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m³ of product",
+          "rawText": "14.8"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 5.96,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 35,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m³ of product",
+          "rawText": "5.96"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 5.02,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 35,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m³ of product",
+          "rawText": "5.02"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 8.45,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 35,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m³ of product",
+          "rawText": "8.45"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -11.6,
+        "unit": "kg CO2-eq",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 35,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS | EN15804+A2",
+          "table": "Table 43. Module C1-C4 + D Core environmental impact indicator results for 1 m³ of product",
+          "rawText": "-11.6"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T02:54:59.989Z",
+    "warnings": []
+  }
+}

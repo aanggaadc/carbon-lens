@@ -1,0 +1,302 @@
+{
+  "id": "9d2bcab5-0761-44c4-8d71-aa785a9be306",
+  "source": {
+    "fileName": "AN3220100Enhanced.pdf",
+    "documentTitle": "ENVIRONMENTAL PRODUCT DECLARATION IN ACCORDANCE WITH EN 15804+A2 & ISO 14025",
+    "version": "15.02.2026"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "AN3220100Enhanced",
+    "issueDate": "15.02.2026",
+    "validUntil": "14.02.2031"
+  },
+  "product": {
+    "name": "AN3220100Enhanced",
+    "manufacturer": "Tandy Concrete",
+    "description": "This ready-mixed concrete product is produced in accordance with AS1379:2007(2017) Specification and supply of concrete. The raw materials are proportioned so as to achieve a characteristic strength of 32MPa in accordance with the requirements of clause 6 of that Standard. The nominal maximum aggregate size is 20mm and the nominal consistence is 100mm slump when measured in accordance AS1012.3.1 Determination of properties related to the consistency of concrete - Slump test.",
+    "category": "Construction product",
+    "compressiveStrength": 32,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 cubic meter",
+    "manufacturingLocation": "21 Mackay Slade Point Road, Mackay, Australia",
+    "standard": "EN 206"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 213,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "2,13E+02"
+        }
+      }
+    },
+    {
+      "stage": "A2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 15.9,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "1,59E+01"
+        }
+      }
+    },
+    {
+      "stage": "A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 3.31,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "3,31E+00"
+        }
+      }
+    },
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 232,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "2,32E+02"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.79,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "2,79E+00"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 15.1,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "1,51E+01"
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B6",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "B7",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "ND"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.48,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "4,48E+00"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12.7,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "1,27E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.2,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "7,20E+00"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.41,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "4,41E+00"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -13.2,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "-1,32E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T15:47:51.420Z",
+    "warnings": []
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "97857d57-277a-4577-9266-2b6182978ff2",
+  "source": {
+    "fileName": "Hanson_EPD_P252080_Hutchinson_Builders_Aliro_Warehouse_Queensland_Brisbane.pdf",
+    "documentTitle": "Environmental Product Declaration",
+    "version": "1.0"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-0014769:001",
+    "issueDate": "2024-08-26",
+    "validUntil": "2029-08-26"
+  },
+  "product": {
+    "name": "P252080 Hutchinson Builders - Aliro Warehouse Queensland - Brisbane",
+    "manufacturer": "Hanson",
+    "description": "Concrete",
+    "category": "Concrete, cement and plaster article manufacturing services",
+    "compressiveStrength": 25,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 m3",
+    "manufacturingLocation": "Brisbane",
+    "standard": "EN 15804:A2"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 127,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n1.27E+02"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -2.65,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n-2.65E+00"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 9.95,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n9.95E+00"
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B6",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B7",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 8.99,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n8.99E+00"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 8.85,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n8.85E+00"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 5.24,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n5.24E+00"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.79,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n2.79E+00"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 6.14,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n6.14E+00"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 6.11,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 21,
+          "section": "Core Environmental Impact Indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n6.11E+00"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T14:41:14.350Z",
+    "warnings": []
+  }
+}

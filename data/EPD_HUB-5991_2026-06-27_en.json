@@ -1,0 +1,152 @@
+{
+  "id": "f377ee28-8375-42cd-8142-b44ece828e6d",
+  "source": {
+    "fileName": "EPD_N40_20_Xencrete_Entire_Concrete.pdf",
+    "documentTitle": "ENVIRONMENTAL PRODUCT DECLARATION",
+    "version": "15.04.2026"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "HUB-5991",
+    "issueDate": "15.04.2026",
+    "validUntil": "14.04.2031"
+  },
+  "product": {
+    "name": "N40/20/Xencrete",
+    "manufacturer": "Entire Concrete",
+    "description": "This ready-mixed concrete product is produced in accordance with AS1379:2007(2017) Specification and supply of concrete. The raw materials are proportioned so as to achieve a characteristic strength of 40MPa in accordance with the requirements of clause 6 of that Standard. The nominal maximum aggregate size is 20mm and the nominal consistence is 80mm slump when measured in accordance AS1012.3.1 Determination of properties related to the consistency of concrete - Slump test.",
+    "category": "Construction product",
+    "compressiveStrength": 40,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 cubic meter",
+    "manufacturingLocation": "Hunter Valley, NSW, Australia",
+    "standard": "EN 15804+A2 & ISO 14025"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 273,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 2,
+          "section": "ENVIRONMENTAL DATA SUMMARY",
+          "table": null,
+          "rawText": "GWP-total, A1-A3 (kg CO₂e)\n273"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.96,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00\n1.64E+01 ND"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 16.4,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00\n1.64E+01 ND"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.39,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00 1.64E+01 ND\nND\nND\nND\nND\nND\nND\n4.39E+00 1.24E+01 7.06E+00 4.32E+00 -1.19E+01"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12.4,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00 1.64E+01 ND\nND\nND\nND\nND\nND\nND\n4.39E+00 1.24E+01 7.06E+00 4.32E+00 -1.19E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.06,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00 1.64E+01 ND\nND\nND\nND\nND\nND\nND\n4.39E+00 1.24E+01 7.06E+00 4.32E+00 -1.19E+01"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.32,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00 1.64E+01 ND\nND\nND\nND\nND\nND\nND\n4.39E+00 1.24E+01 7.06E+00 4.32E+00 -1.19E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -11.9,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 8,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total1)\nkg CO2e 2.35E+02 3.42E+01 3.71E+00 2.73E+02 2.96E+00 1.64E+01 ND\nND\nND\nND\nND\nND\nND\n4.39E+00 1.24E+01 7.06E+00 4.32E+00 -1.19E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T02:46:30.332Z",
+    "warnings": []
+  }
+}

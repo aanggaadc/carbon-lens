@@ -1,0 +1,122 @@
+{
+  "id": "dd3e579f-b132-404b-a558-0c0837b0d897",
+  "source": {
+    "fileName": "EPD_Boral_Concrete_40MPa_20mm_Enviro_50%_SCM_100SL_Conc_Melbourne.pdf",
+    "documentTitle": "Environmental Product Declaration",
+    "version": "26.02.2026"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "HUB-5555",
+    "issueDate": "26.02.2026",
+    "validUntil": "25.02.2031"
+  },
+  "product": {
+    "name": "40MPa 20mm Enviro 50% SCM 100SL Conc",
+    "manufacturer": "Boral Limited",
+    "description": "Boral's ENVIROCRETE® concrete is a lower carbon concrete product which complies with AS 1379. It contains supplementary cementitious materials to reduce the portland cement content. ENVIROCRETE® 30% has a minimum portland cement reduction of 30% compared to the GBCA and ISC reference case and ENVIROCRETE® 40% has a minimum portland cement reduction of 40% when compared to the GBCA and ISC reference case. ENVIROCRETE® 30% and 40% are ideal for general applications where high-performance concrete is not required.",
+    "category": "Concrete",
+    "compressiveStrength": null,
+    "compressiveStrengthUnit": null,
+    "declaredUnit": "1 cubic metre",
+    "manufacturingLocation": "Melbourne",
+    "standard": "EN 15804+A2 & ISO 14025"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 220,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": null,
+          "rawText": "GWP - total¹\nkg CO2e\n2.09E+02\n6.12E+00\n5.60E+00\n2.20E+02"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.45,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": null,
+          "table": "Impact category",
+          "rawText": "GWP - total\nkg CO2e\n4.45E+00\n1.26E+01\n7.16E+00\n4.38E+00\n-1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12.6,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": null,
+          "table": "Impact category",
+          "rawText": "GWP - total\nkg CO2e\n4.45E+00\n1.26E+01\n7.16E+00\n4.38E+00\n-1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.16,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": null,
+          "table": "Impact category",
+          "rawText": "GWP - total\nkg CO2e\n4.45E+00\n1.26E+01\n7.16E+00\n4.38E+00\n-1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.38,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": null,
+          "table": "Impact category",
+          "rawText": "GWP - total\nkg CO2e\n4.45E+00\n1.26E+01\n7.16E+00\n4.38E+00\n-1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -12.8,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": null,
+          "table": "Impact category",
+          "rawText": "GWP - total\nkg CO2e\n4.45E+00\n1.26E+01\n7.16E+00\n4.38E+00\n-1.28E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T14:46:21.373Z",
+    "warnings": []
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "cb603cb7-4da2-43a7-98e6-acacdd72b082",
+  "source": {
+    "fileName": "EPD-IES-0014958:001",
+    "documentTitle": "HyLo-50 Normal-Class 25 MPa",
+    "version": "v.1 2024-11-19"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-0014958:001",
+    "issueDate": "2024-11-19",
+    "validUntil": "2029-11-19"
+  },
+  "product": {
+    "name": "HyLo-50 Normal-Class 25 MPa",
+    "manufacturer": "Hymix",
+    "description": "Generic EPD - Gold Coast Region",
+    "category": "Concrete",
+    "compressiveStrength": 25,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 m³",
+    "manufacturingLocation": "QUEENSLAND - GOLD COAST",
+    "standard": "EN 16757:2023"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 141,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "GWP-tot\nkg CO2 eq.\n1.41E+02"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.95,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "4.95E+00"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 10.7,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "1.07E+01"
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -3.28,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "-3.28E+00"
+        }
+      }
+    },
+    {
+      "stage": "B2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "0.00E+00"
+        }
+      }
+    },
+    {
+      "stage": "B6",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 9.64,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "9.64E+00"
+        }
+      }
+    },
+    {
+      "stage": "B7",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 10.1,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "1.01E+01"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.44,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "4.44E+00"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 3.19,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "3.19E+00"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -1.31,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "-1.31E+01"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -1.31,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "-1.31E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -1.31,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 19,
+          "section": "Core environmental impact indicators",
+          "table": null,
+          "rawText": "-1.31E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T14:43:26.327Z",
+    "warnings": []
+  }
+}

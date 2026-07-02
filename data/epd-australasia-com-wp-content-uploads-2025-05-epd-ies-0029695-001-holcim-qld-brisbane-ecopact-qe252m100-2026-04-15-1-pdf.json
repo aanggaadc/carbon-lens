@@ -1,0 +1,152 @@
+{
+  "id": "6b6cf352-bd5f-4e29-868d-5f29b8750ce3",
+  "source": {
+    "fileName": "Holcim_Ready-Mix_Concrete_EPD.pdf",
+    "documentTitle": "READY-MIX CONCRETE Environmental Product Declaration (EPD) QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use",
+    "version": "1"
+  },
+  "metadata": {
+    "programOperator": "EPD International AB",
+    "declarationNumber": "EPD-IES-0029695:001",
+    "issueDate": "15/4/2026",
+    "validUntil": "15/4/2031"
+  },
+  "product": {
+    "name": "QLD - Brisbane - ECOPact - QE252M100 - S25/20/100 Ecopact Concrete - General use",
+    "manufacturer": "Holcim (Australia) Pty Ltd",
+    "description": "Concrete is prepared by mixing cement, coarse and fine aggregates, and water, with or without the addition of auxiliary agents and additives. The fresh concrete is placed on the building site or prefabricated in factory moulds, compacted and hardened in the desired shape by the hydration of cement to form concrete.",
+    "category": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "compressiveStrength": 25,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 m³ of ready-mix concrete",
+    "manufacturingLocation": "Brisbane City, Acacia Ridge, Beaudesert, Beenleigh, Boonah, Darra, Cleveland, Geebung, Narangba, Wacol, Murarrie, Caboolture, Brendale, Raceview.",
+    "standard": "General Australian Standard AS 1379"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 146,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "146"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.58,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "2.58"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12.9,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "12.9"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0.522,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "0.522"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.31,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "4.31"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 10.4,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "10.4"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 0,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "0"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -18.5,
+        "unit": "kg CO2 eq.",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 16,
+          "section": "PRIMARY ENVIRONMENTAL INDICATORS",
+          "table": "PRIMARY ENVIRONMENTAL INDICATORS table",
+          "rawText": "-18.5"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-02T04:38:14.790Z",
+    "warnings": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "bbe326f6-20d0-4ec9-8214-628f0c6c9704",
+  "source": {
+    "fileName": "EPD_Boral_40MPa_High_Performance_Concrete.pdf",
+    "documentTitle": "Environmental Product Declaration 40 MPa High Performance Concrete",
+    "version": "HUB-5882"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "HUB-5882",
+    "issueDate": "27.03.2026",
+    "validUntil": "26.03.2031"
+  },
+  "product": {
+    "name": "40 MPa High Performance Concrete",
+    "manufacturer": "Boral Limited",
+    "description": "This high performance concrete will be used for a variety of applications including foundations, slab on ground, and suspended slab. This concrete is produced in accordance with AS 1379-2007 Specification and supply of concrete. This concrete is produced with strength class of S40. It is designed for high performance in varied special engineering applications.",
+    "category": "Ready-mix concrete",
+    "compressiveStrength": 40,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 cubic metre",
+    "manufacturingLocation": "Melbourne",
+    "standard": "EN 15804+A2 & ISO 14025"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 276,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total¹ kg CO2e 2.76E+02 1.50E+01 5.60E+00 2.97E+02"
+        }
+      }
+    },
+    {
+      "stage": "A2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 15,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total¹ kg CO2e 2.76E+02 1.50E+01 5.60E+00 2.97E+02"
+        }
+      }
+    },
+    {
+      "stage": "A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 5.6,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total¹ kg CO2e 2.76E+02 1.50E+01 5.60E+00 2.97E+02"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Environmental impact data",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWPt values for this stage are not declared in the EPD."
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Environmental impact data",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWPt values for this stage are not declared in the EPD."
+        }
+      }
+    },
+    {
+      "stage": "B1-B7",
+      "indicator": "GWPt",
+      "impact": {
+        "value": null,
+        "unit": null,
+        "status": "NOT_DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Environmental impact data",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWPt values for this stage are not declared in the EPD."
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.45,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 12.6,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.16,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.38,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -12.8,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total kg CO2e 4.45E+00 1.26E+01 7.16E+00 4.38E+00 -1.28E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T17:11:02.348Z",
+    "warnings": []
+  }
+}

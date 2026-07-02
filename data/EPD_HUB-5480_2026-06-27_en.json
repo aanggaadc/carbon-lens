@@ -1,0 +1,152 @@
+{
+  "id": "b1ea6a1d-5c30-4a01-ba5a-a49670e56070",
+  "source": {
+    "fileName": "EPD_Tandy_Concrete_ATILTS4020100Enhanced.pdf",
+    "documentTitle": "ENVIRONMENTAL PRODUCT DECLARATION",
+    "version": "1.2"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "HUB-5480",
+    "issueDate": "2026-02-20",
+    "validUntil": "2031-02-19"
+  },
+  "product": {
+    "name": "ATILTS4020100Enhanced",
+    "manufacturer": "Tandy Concrete",
+    "description": "Tandy 40MPa Tiltup up concrete is designed to comply with the requirements of AS1379 - Specification and supply of concrete. Our technical expertise ensures that tilt up panels made with this concrete gain sufficient early strength to enable their lifting and placing without damage to the panel.",
+    "category": "Construction product",
+    "compressiveStrength": null,
+    "compressiveStrengthUnit": null,
+    "declaredUnit": "1 cubic meter",
+    "manufacturingLocation": "Mackay, Australia",
+    "standard": "EN 15804+A2 & ISO 14025"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 280,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 2,
+          "section": "ENVIRONMENTAL DATA SUMMARY",
+          "table": null,
+          "rawText": "GWP-total, A1-A3 (kg CO₂e) 280"
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 2.85,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 16.6,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.58,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 13,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 7.38,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 4.51,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -13.5,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 9,
+          "section": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "table": "CORE ENVIRONMENTAL IMPACT INDICATORS – EN 15804+A2, EF 3.1",
+          "rawText": "GWP - total1) kg CO2e 2,59E+02 1,77E+01 3,39E+00 2,80E+02 2,85E+00 1,66E+01 ND ND ND ND ND ND ND 4,58E+00 1,30E+01 7,38E+00 4,51E+00 -1,35E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T14:45:05.997Z",
+    "warnings": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "f75b464e-28c5-40e0-b7e0-50a36c3e0619",
+  "source": {
+    "fileName": "EPD_Boral_Envirocrete_40_32MPa_Melbourne_South-East.pdf",
+    "documentTitle": "Environmental Product Declaration",
+    "version": "1.0"
+  },
+  "metadata": {
+    "programOperator": "EPD Hub",
+    "declarationNumber": "HUB-5210",
+    "issueDate": "2026-01-30",
+    "validUntil": "2031-01-29"
+  },
+  "product": {
+    "name": "Envirocrete® 40% 32MPa",
+    "manufacturer": "Boral Limited",
+    "description": "Envirocrete® concrete is a lower carbon concrete product which complies with AS 1379. It contains supplementary cementitious materials to reduce the portland cement content. Envirocrete® 30% has a minimum portland cement reduction of 30% compared to the GBCA and ISC reference case and Envirocrete® 40% has a minimum portland cement reduction of 40% when compared to the GBCA and ISC reference case. Envirocrete® 30% and 40% are ideal for general applications where high-performance concrete is not required.",
+    "category": "Construction product",
+    "compressiveStrength": 32,
+    "compressiveStrengthUnit": "MPa",
+    "declaredUnit": "1 cubic metre",
+    "manufacturingLocation": "Melbourne South-East",
+    "standard": "EN 15804+A2 & ISO 14025"
+  },
+  "environmentalImpact": [
+    {
+      "stage": "A1-A3",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 275,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 13,
+          "section": "Core environmental impact indicators – EN 15804+A2, EF 3.1",
+          "table": "GWP - total¹",
+          "rawText": "2.75E+02"
+        }
+      }
+    },
+    {
+      "stage": "C1-C4",
+      "indicator": "GWPt",
+      "impact": {
+        "value": 1.22,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Environmental impact data",
+          "table": "GWP - total",
+          "rawText": "-1.22E+01"
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "indicator": "GWPt",
+      "impact": {
+        "value": -1.22,
+        "unit": "kg CO2e",
+        "status": "DECLARED",
+        "provenance": {
+          "page": 14,
+          "section": "Environmental impact data",
+          "table": "GWP - total",
+          "rawText": "-1.22E+01"
+        }
+      }
+    }
+  ],
+  "extraction": {
+    "model": "gemini-2.5-flash",
+    "timestamp": "2026-07-01T14:43:59.150Z",
+    "warnings": []
+  }
+}

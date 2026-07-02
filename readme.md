@@ -38,22 +38,14 @@ apps/
 
 packages/
     extractor/
-
         src/
 
             prompts/
-            validators/
+            schemas/
             services/
-
+            types/
+            utils/
             index.ts
-
-            extractor.ts
-
-            prompt.ts
-
-            schema.ts
-            types.ts
-
 epds/
 
 data/
@@ -71,7 +63,7 @@ agent.md
 - Next.js
 - TypeScript
 - Node.js
-- Gemini 3 Flash Preview
+- Gemini 2.5 Flash
 - Zod
 
 ---

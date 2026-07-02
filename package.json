@@ -3,7 +3,15 @@
   "version": "1.0.0",
   "description": "> AI-powered extraction and comparison of Environmental Product Declarations (EPDs) for concrete products.",
   "main": "index.js",
+  "private": true,
+    "workspaces": [
+    "apps/*"
+  ],
   "scripts": {
+    "dev": "npm run dev --workspace=web",
+    "build": "npm run build --workspace=web",
+    "start": "npm run start --workspace=web",
+    "lint": "npm run lint --workspace=web",
     "extract": "tsx packages/extractor/src/index.ts"
   },
   "keywords": [],

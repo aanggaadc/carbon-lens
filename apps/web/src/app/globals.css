@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+:root {
+  /* Carbon Lens design tokens — "material dossier" palette.
+     Cool concrete paper + verified-teal, with clay reserved
+     strictly for Module D (carbon credit) values. */
+  --paper: #f1f0ea;
+  --surface: #ffffff;
+  --ink: #17181a;
+  --ink-muted: #6b685f;
+  --rule: #dcdad0;
+  --teal: #1f6f64;
+  --teal-soft: #e4efec;
+  --clay: #9c5a34;
+  --clay-soft: #f3e7dd;
+  --flag: #a8721c;
+  --flag-soft: #f6ecd9;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-rule: var(--rule);
+  --color-teal: var(--teal);
+  --color-teal-soft: var(--teal-soft);
+  --color-clay: var(--clay);
+  --color-clay-soft: var(--clay-soft);
+  --color-flag: var(--flag);
+  --color-flag-soft: var(--flag-soft);
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+/* Fine dot texture on the page background, evoking uncoated paper /
+   cast concrete without needing an image asset. */
+.paper-texture {
+  background-image: radial-gradient(var(--rule) 0.6px, transparent 0.6px);
+  background-size: 14px 14px;
+}
+
+.stamp-perforation {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    var(--rule) 0,
+    var(--rule) 3px,
+    transparent 3px,
+    transparent 8px
+  );
+}
